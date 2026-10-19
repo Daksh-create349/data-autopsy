@@ -4,10 +4,10 @@
 ### Serious AI Forensic Investigation Workstation for Tabular Datasets
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Tests Passing](https://img.shields.io/badge/tests-73%20passed%20(100%25)-brightgreen.svg)](https://github.com/)
+[![Tests Passing](https://img.shields.io/badge/tests-73%20passed%20(100%25)-brightgreen.svg)](https://github.com/Daksh-create349/data-autopsy)
 [![Local AI](https://img.shields.io/badge/Local%20LLM-Qwen%202.5%20(1.5B%20%2F%200.5B)-orange.svg)](https://ollama.com)
-[![Privacy](https://img.shields.io/badge/privacy-100%25%20sovereign%20local-purple.svg)](https://github.com/)
-[![Deterministic](https://img.shields.io/badge/detection-deterministic%20math-success.svg)](https://github.com/)
+[![Privacy](https://img.shields.io/badge/privacy-100%25%20sovereign%20local-purple.svg)](https://github.com/Daksh-create349/data-autopsy)
+[![Deterministic](https://img.shields.io/badge/detection-deterministic%20math-success.svg)](https://github.com/Daksh-create349/data-autopsy)
 
 **Detect target leakage, structural corruption, and statistical anomalies with reproducible evidence, verifiable row-level audit trails, and sovereign local AI.**
 
