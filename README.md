@@ -4,6 +4,7 @@
 ### Serious AI Forensic Investigation Workstation for Tabular Datasets
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Tests Passing](https://img.shields.io/badge/tests-73%20passed%20(100%25)-brightgreen.svg)](https://github.com/Daksh-create349/data-autopsy)
 [![Local AI](https://img.shields.io/badge/Local%20LLM-Qwen%202.5%20(1.5B%20%2F%200.5B)-orange.svg)](https://ollama.com)
 [![Privacy](https://img.shields.io/badge/privacy-100%25%20sovereign%20local-purple.svg)](https://github.com/Daksh-create349/data-autopsy)
@@ -319,6 +320,15 @@ flowchart TD
 
 ---
 
-## License Status
+## Community & Security
 
-All rights reserved. License to be determined by repository owner — do not add a license without explicit approval.
+* **Code of Conduct:** Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating in this project.
+* **Contributing:** Read our [Contributing Guidelines](CONTRIBUTING.md) to set up your environment, write detectors, and submit pull requests.
+* **Security Policy:** View our [Security Policy](SECURITY.md) for vulnerability disclosure guidelines and sovereign privacy guarantees.
+
+---
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
