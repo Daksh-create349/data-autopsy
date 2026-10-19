@@ -1,0 +1,11 @@
+patient_id,age,gender,systolic_bp,diastolic_bp,smoker,outcome
+P001,45,M,120,80,0,Control
+P002,52,F,135,88,1,Treated
+P003,34,F,110,72,0,Control
+P004,61,M,142,92,1,Treated
+P005,29,M,118,78,0,Control
+P006,58,F,128,84,0,Treated
+P007,41,M,122,80,1,Control
+P008,67,F,150,96,1,Treated
+P009,38,M,115,76,0,Control
+P010,49,F,130,85,0,Treated

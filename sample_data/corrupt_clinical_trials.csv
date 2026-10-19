@@ -1,0 +1,11 @@
+trial_id,site,dosage,placebo_flag,unobserved_metric,response_rate
+T1001,Site_A,10.0,0,,0.72
+T1002,Site_B,20.0,0,,0.85
+T1003,Site_A,10.0,0,,0.72
+T1004,Site_C,,0,,0.45
+T1005,Site_B,20.0,0,,
+T1006,Site_C,,0,,0.45
+T1001,Site_A,10.0,0,,0.72
+T1007,Site_A,50.0,0,,0.91
+T1008,Site_B,10.0,0,,0.68
+T1009,Site_A,10.0,0,,0.72

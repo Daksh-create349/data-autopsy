@@ -1,0 +1,22 @@
+# Data Autopsy Core Dependencies
+# Python 3.11+ required
+
+# Web Application Interface
+streamlit>=1.35.0,<1.40.0
+
+# Data Analysis & Scientific Computing
+pandas>=2.2.0,<2.3.0
+numpy>=1.26.0,<2.1.0
+scikit-learn>=1.4.0,<1.6.0
+scipy>=1.12.0,<1.14.0
+
+# Interactive Visualizations
+plotly>=5.20.0,<6.0.0
+
+# Networking & Local AI Integration (Ollama API)
+requests>=2.31.0
+pydantic>=2.7.0,<3.0.0
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=8.0.0
